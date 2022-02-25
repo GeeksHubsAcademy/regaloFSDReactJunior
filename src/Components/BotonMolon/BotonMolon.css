@@ -1,0 +1,18 @@
+
+
+.designBoton {
+    height: 4em;
+    width: 8em;
+
+    background-color: red;
+
+    transition: 0.5s;
+
+}
+
+.designBoton:hover {
+    
+    transition: 0.5s;
+    background-color: brown;
+
+}
